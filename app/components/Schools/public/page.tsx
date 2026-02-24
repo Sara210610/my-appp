@@ -97,7 +97,7 @@ export default function PublicSchools() {
               </div>
 
               <button
-                onClick={() => window.open(school.website, "_blank")}
+               
                 className="mt-6 bg-[#159A9C] text-white py-3 rounded-full font-medium hover:bg-[#002333] transition duration-300"
               >
                 Visit Website
